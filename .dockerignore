@@ -1,0 +1,6 @@
+# .dockerignore
+.venv
+.git
+.gitignore
+Social Media.postman_environment.json
+Social Media.postman_collection.json
