@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a social media API built with Django. This API provides various endpoints to interact with social media functionalities like sending, listing, acceppting and rejecting friend requests etc.
+This repository contains a social media API built with Django. This API provides various endpoints to interact with social media functionalities like sending, listing, accepting and rejecting friend requests etc.
 
 ## Getting Started
 
