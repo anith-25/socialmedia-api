@@ -82,3 +82,7 @@ Ensure you have the following installed on your machine:
 
 3. **Start Using the API:**
    You can now start using the API endpoints defined in the Postman collection.
+
+## JWT Tokens
+
+The app uses JWT tokens for authentication. Users will need to refresh their tokens every hour to maintain access.
